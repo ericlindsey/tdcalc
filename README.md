@@ -30,7 +30,9 @@ For example, to generate half-space displacements from one triangle at two point
     nu=0.25
     displ=tdcalc.TDdispHS(obs,tri,slip,nu) 
 
-The run_tdcalc.ipynb file contains a demonstration of how to use the scripts. If you wish to calculate displacements for many triangles, it is your responsibility to run the 
+The run_tdcalc.ipynb file contains a demonstration of how to use the scripts. 
+
+If you wish to calculate displacements for many triangles, it is your responsibility to run the function in a loop.
 
 ### Citation:
 Please cite the Zenodo DOI if you use this code, for example:
