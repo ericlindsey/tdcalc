@@ -1,5 +1,6 @@
 # tdcalc
 Compute 3D displacements and strains due to triangular dislocations using the artefact-free method of Nikkhoo and Walters, 2015.
+
 [![DOI](https://zenodo.org/badge/269057031.svg)](https://zenodo.org/doi/10.5281/zenodo.12802953)
 
 ### Use of the code: 
