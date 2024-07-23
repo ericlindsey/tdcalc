@@ -37,7 +37,7 @@ If you wish to calculate displacements for many triangles, it is your responsibi
 ### Citation:
 Please cite the Zenodo DOI if you use this code, for example:
 
-Lindsey, E. O. (2024), tdcalc version 1.0, https://doi.org/10.5281/12802953.
+Lindsey, E. O. (2024), tdcalc version 1.0, https://doi.org/10.5281/zenodo.12802953.
 
 Also cite:
 
